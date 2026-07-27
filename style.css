@@ -1,51 +1,6 @@
 body{
+  font-family:"times new roman";
   text-align:center;
-  font-family:arial,sans-serif;
-  background-color:black;
-  color:white;
-}
-
-h1{
-  color:gold;
-  font-size:50px;
-}
-
-h2{
+  background-color:orange;
   color:blue;
-}
-
-div{
-  border:2px solid black;
-  padding:20px;
-  margin:20px;
-  border-radius:15px;
-}
-
-.hero{
-  padding:40px;
-}
-
-.card{
-  border=2px solid white;
-  padding=20px;
-  margin=20px;
-  border-radius:15px;
-}
-
-.highlight{
-  color:gold;
-}
-
-button{
-  padding:15px;
-  border-radius:10px;
-  font-size:18px;
-}
-
-button:hover{
-  background-colour:gold;
-}
-
-.navbar{
-  padding:20px;
 }
